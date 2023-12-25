@@ -4,12 +4,15 @@ import WillYouBuyMeThisBook from "./components/WillYouBuyMeThisBook"
 
 function App() {
   return (
-      <Router>
-          <Routes>
-              {/*<Route exact path="/" element={<Homepage/>} />*/}
-              <Route path="/" element={<WillYouBuyMeThisBook/>} />
-          </Routes>
-      </Router>
+      // <Router>
+      //     <Routes>
+      //         {/*<Route exact path="/" element={<Homepage/>} />*/}
+      //         <Route path="/" element={<WillYouBuyMeThisBook/>} />
+      //     </Routes>
+      // </Router>
+      <div className="App">
+          <WillYouBuyMeThisBook/>
+      </div>
   )
 }
 
