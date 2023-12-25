@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/willyoubuymeabook/static/css/main.0f453f29.css",
+    "main.js": "/willyoubuymeabook/static/js/main.14768a0a.js",
+    "static/js/787.91ee4cf9.chunk.js": "/willyoubuymeabook/static/js/787.91ee4cf9.chunk.js",
+    "index.html": "/willyoubuymeabook/index.html",
+    "main.0f453f29.css.map": "/willyoubuymeabook/static/css/main.0f453f29.css.map",
+    "main.14768a0a.js.map": "/willyoubuymeabook/static/js/main.14768a0a.js.map",
+    "787.91ee4cf9.chunk.js.map": "/willyoubuymeabook/static/js/787.91ee4cf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f453f29.css",
+    "static/js/main.14768a0a.js"
+  ]
+}
